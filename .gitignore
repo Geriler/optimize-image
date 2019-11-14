@@ -1,0 +1,9 @@
+vendor/
+.idea/
+.env
+
+image_input/*
+!image_input/.gitkeep
+
+image_output/*
+!image_output/.gitkeep
